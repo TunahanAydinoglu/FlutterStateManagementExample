@@ -1,0 +1,11 @@
+
+vscode extensions
+	Flutter_mobx
+	
+pubspec.yaml
+ 	mobx: ^1.2.1+4
+ 	build_runner: ^1.11.1  
+  	flutter_mobx: ^1.1.0+2 
+	mobx_codegen: ^1.1.2 //flutter packages pub run build_runner build
+	dio: ^3.0.10
+
